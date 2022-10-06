@@ -1,0 +1,23 @@
+{
+  "name": "how-node-works",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roninJosue/how-node-works.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roninJosue/how-node-works/issues"
+  },
+  "homepage": "https://github.com/roninJosue/how-node-works#readme",
+  "dependencies": {
+    "superagent": "^8.0.2"
+  }
+}
